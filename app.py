@@ -29,4 +29,6 @@ for addr in addresses:
 
 
 
+print(lst[0])
 print(lst[0]["Lat"])
+
